@@ -4,13 +4,13 @@
   "manifest_version": 1,
   "author": "BHKonnen",
   "description": "Gestión compartida de barcos, combate naval, mejoras y bastiones para El Mar del Albedrío.",
-  "icon": "icon.svg",
+  "icon": "https://bhkonnen.github.io/albedrio-companion/icon.svg",
   "action": {
     "title": "Albedrío Companion",
-    "icon": "icon.svg",
-    "popover": "panel.html",
+    "icon": "https://bhkonnen.github.io/albedrio-companion/icon.svg",
+    "popover": "https://bhkonnen.github.io/albedrio-companion/panel.html",
     "width": 480,
     "height": 720
   },
-  "background_url": "index.html"
+  "background_url": "https://bhkonnen.github.io/albedrio-companion/index.html"
 }
